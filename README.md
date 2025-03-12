@@ -4,7 +4,7 @@
 
 💞️ I’m looking to collaborate on projects related to web development or data science.
 
-📫 You can reach me via email at gmhaxx@example.com or connect with me on LinkedIn at [Your LinkedIn Profile](https://www.linkedin.com/in/gm-hax-8419a4293/).
+📫 You can reach me via email at hayaghax@gmail.com or connect with me on LinkedIn at [Your LinkedIn Profile](https://www.linkedin.com/in/gm-hax-8419a4293/).
 
 <!---
 Gmhaxx/Gmhaxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
